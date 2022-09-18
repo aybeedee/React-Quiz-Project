@@ -1,0 +1,18 @@
+.mcq-container {
+    
+  display: flex;
+  align-items: center;
+}
+
+.mcq {
+    
+  font-size: 11px;
+  line-height: 12px;
+  text-align: center;
+  color: #293264; 
+  border: 1px solid #4D5B9E;
+  border-radius: 8px;
+  padding: 5px 16px;
+  cursor: pointer;
+  margin-right: 12px;
+}
